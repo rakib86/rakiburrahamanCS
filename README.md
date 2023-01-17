@@ -44,11 +44,11 @@ International Islamic University Chittagong, Bangladesh
 &nbsp;
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
+<a href="https://twitter.com/intent/follow?screen_name=rakib_cs#gh-light-mode-only">
 <img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
+<a href="https://twitter.com/intent/follow?screen_name=rakib_cs#gh-dark-mode-only">
 <img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
