@@ -1,5 +1,5 @@
 . . Rakibur Rahaman                                                                      
-2nd Semester, Computer Science and Engineering(CSE)                                                    
+3rd Semester, Computer Science and Engineering(CSE)                                                    
 International Islamic University Chittagong, Bangladesh                                      
 [E-mail](mailto:mail.rakiburrahaman@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rakib-cs) | [Facebook](https://www.facebook.com/rakiburrahaman.me/) | [GitHub](https://github.com/rakiburrahamanCS)
 
